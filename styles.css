@@ -1,5 +1,6 @@
 #yellow{
             border: 1px solid green;
+			border-top-width: 3px;
             background-color: yellow;
         }
         #red{
